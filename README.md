@@ -1,4 +1,9 @@
-## Hi there 👋
+## Howdy! 🤠
+
+I'm a new student of ethical hacking and cybersecurity. My goal is to do red team work for good folks.
+
+Reach me on [TryHackMe](https://tryhackme.com/r/p/Pluvialis) for any reason! I am friendly :)
+
 
 <!--
 **Pluvialis/Pluvialis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
