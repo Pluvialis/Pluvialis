@@ -2,7 +2,7 @@
 
 I'm a new student of hacking and cybersecurity. My goal is to do red team work for good folks.
 
-Reach me on [TryHackMe](https://tryhackme.com/r/p/Pluvialis) for any reason! I am friendly :)
+Reach me here or on [TryHackMe](https://tryhackme.com/r/p/Pluvialis) for any reason! I am friendly :)
 
 
 <!--
